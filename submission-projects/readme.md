@@ -11,7 +11,7 @@ These are the final compulsory projects to submit:
 | 05 - Hangman                      | [Colab](https://colab.research.google.com/drive/1q6qgXeEEsE52UlXv5TX4DLIYeNjYgNah?usp=drive_link) | — |
 | 06 - Countdown Timer              | [Colab](https://colab.research.google.com/drive/1W5yOdz9lvTHTUTmGc4QAguQJMQg_ll4P?usp=drive_link) | — |
 | 07 - Password Generator           | [Colab](https://colab.research.google.com/drive/1nPSY-kbE_l--aZaXEgV-_TfTdvXs5kPn?usp=drive_link) | — |
-| 08 - BMI Calculator (Streamlit)   | [Colab](https://colab.research.google.com/drive/1WxBYfEc5ijGD1DaWoUxu7KCRAH1Q5bAw?usp=drive_link) | [Live App](https://<your-deployment-url>/bmi-calculator) |
+| 08 - BMI Calculator (Streamlit)   | [Colab](https://colab.research.google.com/drive/1WxBYfEc5ijGD1DaWoUxu7KCRAH1Q5bAw?usp=drive_link) | [Live App](https://check-my-bmi.streamlit.app/) |
 | 09 - Streamlit Website            | [Colab](https://colab.research.google.com/github/muhammadwaheedairi/modern-ai-python-projects/blob/main/projects_to_be_submitted_by_students/09_streamlit_website.ipynb) | [Live App](https://<your-deployment-url>/streamlit-website) |
 
 ✨ Open any notebook to run in Colab or visit the live Streamlit apps.
