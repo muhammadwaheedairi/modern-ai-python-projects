@@ -13,7 +13,7 @@ Welcome to my collection of Python projects! This repository contains both assig
 ## Sections
 
 - [Homework Assignments](homework_assigments/README.md)
-- [Online Class Projects](online_class_projects/README.md)
-- [Final Submission Projects](projects_to_be_submitted_by_students/README.md)
+- [Online Class Projects](online_class_assigments/README.md)
+- [Final Submission Projects](submission-projects/README.md)
 
 ✨ All notebooks can be opened directly in Google Colab for easy running and testing!
