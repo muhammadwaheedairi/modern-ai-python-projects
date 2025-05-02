@@ -13,7 +13,7 @@ Welcome to my collection of Python projects! This repository contains both assig
 ## Sections
 
 - [Homework Assignments](/homework-assigments)
-- [Online Class Projects](/online-class-assigments)
+- [Online Class Projects](/online-class-assignments)
 - [Final Submission Projects](/submission-projects)
 
 ✨ All notebooks can be opened directly in Google Colab for easy running and testing!
